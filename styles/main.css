@@ -1,7 +1,10 @@
+header {
+  text-align: center;
+}
 .movie {
   flex-basis: 300px;
   flex-grow: 1;
-  max-width: 400px;
+  max-width: 350px;
   margin-bottom: 20px;
   display: flex;
   flex-direction: row;
@@ -36,4 +39,8 @@
   font-size: 14px;
   color: #666666;
   line-height: 1.5;
+}
+
+footer {
+  text-align: center;
 }
